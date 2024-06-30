@@ -14,3 +14,15 @@ Alternatively, open an issue here on GitHub.
 2. Transfer them to your calculator (TI Connect CE or TiLP is recommended)
 3. Run GDSTAND once OR if your ram gets reset OR if GDB9 is tampered with in any way shape or form
 4. Open CalcCiv
+
+# Usage/Keybinds
+- \[2ND\] Acts as a 'click', use to click through menus or a tile on the map
+- \[Arrow Keys\] Moves the cursor, practically always
+- \[Clear\] Quit if in game, or, cancels unit movement
+- \[y=\] Redraw screen
+- \[Trace\] Reload screen
+- \[Stat\] Enable debug mode. To close debug mode, restart the game.
+- \[Graph\] Opens the console. Does nothing if debug mode is turned off.
+- \[Vars\] Refresh screen
+- \[Log\] Start pausing game on CACIDATA calls. Does nothing if debug is disabled. Useless if not editing the game.
+- \[X2\] Disables pausing game on CACIDATA calls.
